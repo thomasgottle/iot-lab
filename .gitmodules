@@ -1,0 +1,6 @@
+[submodule "iotrl26maintds250428-ge64hop"]
+	path = iotrl26maintds250428-ge64hop
+	url = /Users/thomas/repos/iot-lab/iotrl26maintds250428-ge64hop
+[submodule "iotrl26d11payloads-ge64hop"]
+	path = iotrl26d11payloads-ge64hop
+	url = /Users/thomas/repos/iot-lab/iotrl26d11payloads-ge64hop
