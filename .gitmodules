@@ -4,3 +4,6 @@
 [submodule "iotrl26d11payloads-ge64hop"]
 	path = iotrl26d11payloads-ge64hop
 	url = /Users/thomas/repos/iot-lab/iotrl26d11payloads-ge64hop
+[submodule "iotrl26d22cons-ge64hop"]
+	path = iotrl26d22cons-ge64hop
+	url = https://ge64hop:vcpat-c5GRLyw7neGdKYRw0UAoQtYlb1ROKxnTb8m4m1HrMGnN@artemis.tum.de/git/IOTRL26D22CONS/iotrl26d22cons-ge64hop.git
