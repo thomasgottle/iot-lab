@@ -1,4 +1,4 @@
-# IoT Lab (ge64hop)
+# IoT Lab 
 
 Aggregator repository collecting my deliverables for the **TUM IoT Lab**. Each deliverable lives in its own git submodule, so this repository contains only the submodule pointers — no source of its own.
 
